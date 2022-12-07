@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<galleryName>Zen Gallery</galleryName>
+	<settings>
+		<initialState>Show Thumbnails</initialState>
+
+		<imageScaleMode>fill</imageScaleMode>
+		<useRotation>true</useRotation>
+		<rotationDirection>Horizontal CW</rotationDirection>
+		<rotationDuration>600</rotationDuration>
+		<slideshowDelay>4</slideshowDelay>
+
+		<frameSize>5</frameSize>
+		<frameColor>0x000000</frameColor>
+		<cornerRadius>7</cornerRadius>
+		<backgroundColor>0xFFFFFF</backgroundColor>
+		<dropShadow>true</dropShadow>
+
+		<showButtons>Always</showButtons>
+		<showAlbumsButton>true</showAlbumsButton>
+		<showThumbnailsButton>true</showThumbnailsButton>
+		<showSlideshowButton>true</showSlideshowButton>
+		<showNavigationButton>true</showNavigationButton>
+		<buttonsBackgroundAlpha>41</buttonsBackgroundAlpha>
+		<buttonsBackgroundCornerRadius>6</buttonsBackgroundCornerRadius>
+
+		<iconWidth>90</iconWidth>
+		<iconHeight>55</iconHeight>
+		<iconPadding>12</iconPadding>
+		<panelBackgroundAlpha>43</panelBackgroundAlpha>
+
+		<showCaption>Always</showCaption>
+		<captionBackgroundAlpha>41</captionBackgroundAlpha>
+		<captionBackgroundCornerRadius>6</captionBackgroundCornerRadius>
+
+		<overSound>sounds/over.mp3</overSound>
+		<clickSound>sounds/click.mp3</clickSound>
+	</settings>
+	<albums>
+		<album icon="" thumbnailsFolder="gallery/icons/7wonders/" imagesFolder="gallery/images/7wonders/" description="7 Wonders">
+			<items>
+				<item source="1.jpg" description="Chichen Itza, Mexico (Modern World)" thumb="1.jpg"/>
+				<item source="2.jpeg" description="Christ Redeemer, Brazil (Modern World)" thumb="2.jpeg"/>
+				<item source="3.jpg" description="Colosseum, Italy (Modern World)" thumb="3.jpg"/>
+				<item source="4.jpg" description="Taj Mahal, India (Modern World)" thumb="4.jpg"/>
+				<item source="5.jpeg" description="Great Wall of China (Modern World)" thumb="5.jpeg"/>
+				<item source="6.jpg" description="Petra, Jordan (Modern World)" thumb="6.jpg"/>
+				<item source="7.jpeg" description="Machu Pichu, Peru (Modern World)" thumb="7.jpeg"/>
+				<item source="8.jpg" description="Great Pyramid of Giza (Ancient World)" thumb="8.jpg"/>
+				<item source="9.jpg" description="Hanging Gardens of Babylon (Ancient World)" thumb="9.jpg"/>
+				<item source="10.jpg" description="Stonehenge, England (Once nominated)" thumb="10.jpg"/>
+			</items>
+		</album>
+		<album icon="" thumbnailsFolder="gallery/icons/nwonders/" imagesFolder="gallery/images/nwonders/" description="Natural Wonders">
+			<items>
+				<item source="1.jpg" description="Grand Canyon" thumb="1.jpg"/>
+				<item source="2.jpg" description="Great Barrier Reef" thumb="2.jpg"/>
+				<item source="3.jpg" description="Harbor of Rio de Janeiro" thumb="3.jpg"/>
+				<item source="4.jpg" description="Mount Everest" thumb="4.jpg"/>
+				<item source="5.jpg" description="Aurora" thumb="5.jpg"/>
+				<item source="6.jpg" description="Parícutin volcano" thumb="6.jpg"/>
+				<item source="7.jpg" description="Victoria Falls" thumb="7.jpg"/>
+			</items>
+		</album>
+		<album icon="" thumbnailsFolder="gallery/icons/animals/1/" imagesFolder="gallery/images/animals/1/" description="Rarest Animals(1)">
+			<items>
+				<item source="1.png" description="25. Bamboo Lemur" thumb="1.png" />
+				<item source="2.png" description="24. Spoon Billed Sandpiper" thumb="2.png" />
+				<item source="3.png" description="23. Jamaica Rock Iguana" thumb="3.png" />
+				<item source="4.png" description="22. Geometric Tortoise" thumb="4.png" />
+				<item source="5.png" description="21. Stubfoot Toad" thumb="5.png" />
+				<item source="6.png" description="20. Araripe Manakin" thumb="6.png" />
+				<item source="7.png" description="19. Roloway Monkey" thumb="7.png" />
+				<item source="8.png" description="18. Cuban Greater Funnel-Eared Bat" thumb="8.png" />
+				<item source="9.png" description="17. Durrell’s Vontsira" thumb="9.png" />
+				<item source="10.png" description="16. Gooty Tarantula" thumb="10.png" />
+			</items>
+		</album>
+		<album icon="" thumbnailsFolder="gallery/icons/animals/2/" imagesFolder="gallery/images/animals/2/" description="Rarest Animals(2)">
+			<items>
+				<item source="1.png" description="15. Angonoka" thumb="1.png" />
+				<item source="2.png" description="14. Jumping Shrew" thumb="2.png" />
+				<item source="3.png" description="13. Angel Shark" thumb="3.png" />
+				<item source="4.png" description="12. Northern Hairy Nose Wombat" thumb="4.png" />
+				<item source="5.jpg" description="11. Hirola" thumb="5.jpg" />
+				<item source="6.png" description="10. Common Sawfish" thumb="6.png" />
+				<item source="7.png" description="09. Tonkin Snub Nosed Monkeys" thumb="7.png" />
+				<item source="8.png" description="08. Sumatran Rhino" thumb="8.png" />
+				<item source="9.png" description="07. Tiger Quoll" thumb="9.png" />
+				<item source="10.png" description="06. Spotted Dear" thumb="10.png" />
+			</items>
+		</album>
+		<album icon="" thumbnailsFolder="gallery/icons/animals/3/" imagesFolder="gallery/images/animals/3/" description="Rarest Animals(3)**">
+			<items>
+				<item source="1.png" description="05. Warty Pig" thumb="1.png" />
+				<item source="2.jpg" description="04. Florida Panther" thumb="2.jpg" />
+				<item source="3.png" description="03. White Lion" thumb="3.png" />
+				<item source="4.png" description="02. Snow Leopard" thumb="4.png" />
+				<item source="5.png" description="01. Giant Squid" thumb="5.png" />
+			</items>
+		</album>
+	</albums>
+</gallery>
